@@ -1,13 +1,6 @@
-# OS files
-.DS_Store
-Thumbs.db
 
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.pyo
-*.pyd
 
 # Virtual environments
 venv/
@@ -17,15 +10,6 @@ env/
 
 # Node modules
 node_modules/
-
-# Build / packaging
-build/
-dist/
-*.egg-info/
-pip-wheel-metadata/
-
-# Logs
-*.log
 
 # IDE/editor settings
 .vscode/
